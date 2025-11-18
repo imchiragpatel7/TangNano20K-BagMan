@@ -1,0 +1,35 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW2AR-18C" pn="GW2AR-LV18QN88C8/I7">gw2ar18c-000</Device>
+    <FileList>
+        <File path="proms/bagman_palette.vhd" type="file.vhdl" enable="1"/>
+        <File path="proms/bagman_program.vhd" type="file.vhdl" enable="1"/>
+        <File path="proms/bagman_speech1.vhd" type="file.vhdl" enable="1"/>
+        <File path="proms/bagman_speech2.vhd" type="file.vhdl" enable="1"/>
+        <File path="proms/bagman_tile_bit0.vhd" type="file.vhdl" enable="1"/>
+        <File path="proms/bagman_tile_bit1.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/TN20K-Bagman.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/bagman.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/bagman_pal16r6.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/bagman_speech.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/cpu/T80.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/cpu/T80_ALU.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/cpu/T80_MCode.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/cpu/T80_Pack.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/cpu/T80_Reg.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/cpu/T80s.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/dac.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/gen_ram.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/gowin_rpll48.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/io_ps2_keyboard.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/kbd_joystick.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/line_doubler.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/plc10_speech_synthetizer.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/video_gen.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/ym_2149_linmix.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/TN20K-Bagman.cst" type="file.cst" enable="1"/>
+    </FileList>
+</Project>
